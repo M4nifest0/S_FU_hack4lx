@@ -38,10 +38,9 @@
 
   Version 👁‍🗨 1.0.0
 
- Usage 👌    install Python3 |  Run :: python3 S_FU_hack4lx
+  Usage 👌    install Python3 |  Run :: python3 S_FU_hack4lx
 
-
- Channel  Combo List 👍  [![Telegram Chanel](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/hack4lxCombo)
+  Channel  Combo List 👍  [![Telegram Chanel](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/hack4lxCombo)
 
 
 ✂️●●●●●●●●●●●●●●●●●●●●●●●●●●●●
