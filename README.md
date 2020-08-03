@@ -16,6 +16,12 @@
 **********************************************************
 
 
+# telegram group scraper tool. fetch all information about group members , with no limitation
+
+
+**********************************************************
+
+
 ✂️●●●●●●●●●●●●●●●●●●●●●●●●●●●●
 
 ⚠️  Read-First:
